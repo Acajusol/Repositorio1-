@@ -1,5 +1,5 @@
 # Repositorio1-
 
-#editing tha file 
+#editing the file 
 
 its a markdown file in this repository
